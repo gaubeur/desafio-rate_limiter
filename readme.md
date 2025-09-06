@@ -37,6 +37,8 @@ Testes automatizados demonstrando a eficácia e a robustez do rate limiter.
 Utilize docker/docker-compose para que possamos realizar os testes de sua aplicação.
 O servidor web deve responder na porta 8080.
 
+*** DOCUMENTAÇÃO ADICIONAL NO ARQUIVO DOC.MD
+
 -- serviço docker
 -- tive que resolver um problema pois a porta 3306 já estava sendo usado pelo ambiente windows
 docker-compose up -d
